@@ -1,0 +1,120 @@
+{
+    "filter": {
+        "filterTitle": "Fall Protection Americas",
+        "filterUrl": "https://acsjira.honeywell.com/issues/?filter=122987",
+        "empty": false
+    },
+    "rows": [
+        {
+            "cells": [
+                {
+                    "markup": "Fall Protection - Sustaining"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Open'>40</a>"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+%22In+Progress%22'>11</a>"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Closed'>40</a>"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Completed'>3</a>"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Selected'>2</a>"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+%22In+Specification%22'>1</a>"
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL'>97</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "markup": "Total Unique Issues:",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Open'>40</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+%22In+Progress%22'>11</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Closed'>40</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Completed'>3</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+Selected'>2</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?jql=project+%3D+FALL+AND+status+%3D+%22In+Specification%22'>1</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                },
+                {
+                    "markup": "<a href='https://acsjira.honeywell.com/issues/?filter=122987'>97</a>",
+                    "classes": [
+                        "totals"
+                    ]
+                }
+            ]
+        }
+    ],
+    "firstRow": {
+        "cells": [
+            {
+                "markup": "<span class=\" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-blue-gray jira-issue-status-lozenge-new aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium\" data-tooltip=\"&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Open&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;jira-issue-status-tooltip-desc&quot;&gt;The issue is open and ready for the assignee to start work on it.&lt;/span&gt;\">Open</span>"
+            },
+            {
+                "markup": "<span class=\" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-yellow jira-issue-status-lozenge-indeterminate aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium\" data-tooltip=\"&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;In Progress&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;jira-issue-status-tooltip-desc&quot;&gt;This issue is being actively worked on at the moment by the assignee.&lt;/span&gt;\">In Progress</span>"
+            },
+            {
+                "markup": "<span class=\" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-green jira-issue-status-lozenge-done aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium\" data-tooltip=\"&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Closed&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;jira-issue-status-tooltip-desc&quot;&gt;The issue is considered finished, the resolution is correct. Issues which are closed can be reopened.&lt;/span&gt;\">Closed</span>"
+            },
+            {
+                "markup": "<span class=\" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-green jira-issue-status-lozenge-done aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium\" data-tooltip=\"&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Completed&lt;/span&gt;\">Completed</span>"
+            },
+            {
+                "markup": "<span class=\" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-yellow jira-issue-status-lozenge-indeterminate aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium\" data-tooltip=\"&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;Selected&lt;/span&gt;\">Selected</span>"
+            },
+            {
+                "markup": "<span class=\" jira-issue-status-lozenge aui-lozenge jira-issue-status-lozenge-yellow jira-issue-status-lozenge-indeterminate aui-lozenge-subtle jira-issue-status-lozenge-max-width-medium\" data-tooltip=\"&lt;span class=&quot;jira-issue-status-tooltip-title&quot;&gt;In Specification&lt;/span&gt;\">In Specification</span>"
+            },
+            {
+                "markup": "T:"
+            }
+        ]
+    },
+    "xHeading": "Status",
+    "yHeading": "Project",
+    "totalRows": 1
+}
